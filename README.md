@@ -19,7 +19,7 @@ pero queria darle mayor complejidad al codigo y practicar cosas nuevas, como por
     para validar los datos y retornar las variables
     y desempaquetarlas al llamar la funcion en el main.
 
--3.- En vez de mostrar los datos en el main, cree una función para que haga los prints y luego llamarla en el main,
+- 3.- En vez de mostrar los datos en el main, cree una función para que haga los prints y luego llamarla en el main,
     - EXTRA en esta funcion, queria intentar probar esta comprobacion de muestra de datos "'Sí' if tour == 'si' else 'No'"
     ya que se puede usar en C desde la siguiente sintaxis: "(condicion) ? (caso 1) : (caso 2);" entonces queria ver si se aplicaba en Python.
     Para mostrar los numeros en el formato "123.123.123,12" utilicé el formateo de numeros ":,.(numero)f".
